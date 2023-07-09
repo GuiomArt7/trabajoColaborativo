@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(186, 128, 201);
+    color: white;
+    position: absolute;
+    width: 100%;
+  }
