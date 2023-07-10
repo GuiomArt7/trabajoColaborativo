@@ -1,0 +1,23 @@
+:root {
+  --background: #f8f2ed;
+  --letraMorada: #c8a8dd;
+}
+/* Globales */
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+.header {
+  background-color: var(--background);
+  padding: 1rem 0 3rem 0;
+}
+.contenido-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
