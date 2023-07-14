@@ -1,3 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .mensaje{
     flex: content;
     border: 2px solid;
@@ -9,5 +71,4 @@
     color: rgb(231, 102, 216);
     text-align: center;
     font: condensed 200% sans-serif;
-
 }
