@@ -58,3 +58,16 @@ html {
   text-decoration: none;
   padding-right: 3rem;
 }
+
+.mensaje{
+    flex: content;
+    border: 2px solid;
+    border-color: rgb(141, 231, 244);
+    border-radius: 10px;
+    padding: 60px 20px 40px 20px;
+    margin: 180px 210px 5px 210px;
+    background-color: #bcfefe;
+    color: rgb(231, 102, 216);
+    text-align: center;
+    font: condensed 200% sans-serif;
+}
